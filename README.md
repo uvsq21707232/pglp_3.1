@@ -5,7 +5,7 @@
 ### Réponse 3.1.1 ###
 
  La classe Employe viole le pricipe SRP,  
- paceque cette classe possède deux responsabilités ( le calcul du salaire et l'affichage des coordonnées de l'employé).
+ paceque cette classe possède deux responsabilités (le calcul du salaire et l'affichage des coordonnées de l'employé).
 
 
 ### Réponse 3.1.2 ###
@@ -21,3 +21,4 @@ cela violerai non seulement le pricincipe SRP mais aussi le principe DIP
 
 ### Réponse 3.1.4 ###
 
+ une solution qui respecte le principe SRP est de découpler les responsabilités en affectant à chaque classe une résponsabité.
