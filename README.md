@@ -10,6 +10,8 @@
 
 ### Réponse 3.1.2 ###
 
+Un changement de la méthode de calcul du salaire peut nécessiter un changement dans Employé et  
+donc une reconstruction de l'affichage.
 
 
 ### Réponse 3.1.3 ###
