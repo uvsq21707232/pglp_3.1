@@ -16,7 +16,8 @@ donc une reconstruction de l'affichage.
 
 ### Réponse 3.1.3 ###
 
-
+Si l’affichage est remplacé par le stockage dans un fichier CSV,  
+cela violerai non seulement le pricincipe SRP mais aussi le principe DIP
 
 ### Réponse 3.1.4 ###
 
